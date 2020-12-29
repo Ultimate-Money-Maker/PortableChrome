@@ -1,0 +1,3 @@
+[40472:3500:1229/005002.706:ERROR:device_event_log_impl.cc(211)] [00:50:02.706] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+[40472:3500:1229/005009.743:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[40472:3500:1229/005011.101:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
